@@ -28,7 +28,9 @@ List name: **Test Maintenance Reminder**
 ---
 
 ##  Power Automate Flows
-
+## Flows Overview
+- ⚙️ [Flow 1 – Reminder Flow](docs/setup-guide.md#flow-1)
+- 🔁 [Flow 2 – Follow-up Flow](docs/setup-guide.md#flow-2)
 ### Flow 1 – Maintenance Reminder
 - **Trigger:** Scheduled (daily)  
 - **Logic:**
