@@ -1,6 +1,6 @@
-# 🛠️ Maintenance Reminder with SharePoint, Adaptive Cards & Power Automate
+# Maintenance Reminder with SharePoint, Adaptive Cards & Power Automate
 
-## 📌 Overview
+## Overview
 This project automates **maintenance reminders** for laboratory instruments using:
 - **SharePoint Online** – stores maintenance schedules and metadata  
 - **Power Automate Cloud Flows** – sends notifications and updates records  
